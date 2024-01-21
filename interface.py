@@ -4,6 +4,7 @@ Author: Julius Stener (really the streamlit team for most of it)
 Reason: 
 """
 
+# imports
 import streamlit as st
 import time
 import random
@@ -14,8 +15,8 @@ st.title("Assistant")
 # Initialize the PythonicAssistant
 if "assistant" not in st.session_state:
     
-    name = "US Department of Defense Acquisitions Expert"
-    description = "You are an expert in DoD Acquistions. Draw on your existing knowledge of the National Defense Authorization Act (NDAA) and Pentagon's Budget Materials."
+    name = "General Assistant"
+    description = "You are a general assistant. Use the functions provided to follow the directions of the user."
     instructions = "Please address the user as Jane Doe. The user has a premium account."
 
     st.session_state.assistant = PythonicAssistant(
@@ -42,14 +43,13 @@ if prompt := st.chat_input("How can I help you today?"):
     st.session_state.messages.append({"role": "user", "content": prompt})
 
     assistant_response = st.session_state.assistant.execute(
-        st.session_state.messages, 
+        [{'role':'user', 'content': prompt}], 
         as_list=True
         )
     response = assistant_response[-1]['content']
 
     with st.chat_message("assistant"):
         st.markdown(response)
-    
     
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})

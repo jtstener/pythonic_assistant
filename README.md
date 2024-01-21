@@ -1,7 +1,7 @@
 # Pythonic Assistant
 
 ## Overview
-The intention of Pythonic Assistant is to easily injest, store and complete given tasks. That said, this code base is still underdevelopment and most of that functionality does not work. As of right now, the only completely functional component of this library is the `PythonicAssistant` class within the `pythonic_assistant.py` file.
+The intention of Pythonic Assistant is to easily injest, store and complete given tasks. That said, this code base is still under development and most of that functionality does not work. As of right now, the only completely functional component of this library is the `PythonicAssistant` class within the `pythonic_assistant.py` file.
 
 ## Getting Started
 This library uses [poetry](https://python-poetry.org/) to maintain the required packages and [dotenv](https://pypi.org/project/python-dotenv/) to maintain the global variables (such as the `OPENAI_API_KEY`).

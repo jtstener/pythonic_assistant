@@ -38,7 +38,7 @@ class PythonicAssistant():
     self.assistant = AssistantsWrapper(client, **kwargs)
     self.thread = ThreadsWrapper(client, **kwargs)
 
-    self.tool(self.create_tool)
+    # self.tool(self.create_tool)
 
   def handle_kwargs(self, **kwargs):
     """

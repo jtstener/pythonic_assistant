@@ -58,8 +58,8 @@ def get_weather():
 
 messages = [
     {
-    'role': 'user',
-    'content': 'What is the weather today?'
+      'role': 'user',
+      'content': 'What is the weather today?'
     }
   ]
 
