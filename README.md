@@ -59,7 +59,7 @@ Much of the needed functionality to realize the vision for the Pythonic Assistan
 
 2. **Tool Manager / Database:** Create a server using [Quart](https://pgjones.gitlab.io/quart/) that manages Tools.
 
-3. **(Optional) Planning / Executing Engine:** For now, the `PythonicAssistant` class only wraps around the OpenAI Assistants API because of it's ease of use. However, this class was written specifically so that it could handle multiple Agent frameworks in the future. This class should be extended to include [LangChain Agents](https://python.langchain.com/docs/modules/agents/quick_start) (and other Agentic frameworks as they are published). Additionally, the Planning Engine should make use of the Tool Manager created in Step 2 to dynamically allocate tools to the Agent based on the query.
+3. **(Optional) Planning / Executing Engine:** For now, the `PythonicAssistant` class only wraps around the OpenAI Assistants API because of its ease of use. However, this class was written specifically so that it could handle multiple Agent frameworks in the future. This class should be extended to include [LangChain Agents](https://python.langchain.com/docs/modules/agents/quick_start) (and other Agentic frameworks as they are published). Additionally, the Planning Engine should make use of the Tool Manager created in Step 2 to dynamically allocate tools to the Agent based on the query.
 
 4. **Planning / Executing Server:** Using [Quart](https://pgjones.gitlab.io/quart/), build a server that can be spawned by another instance (see Step 5). This should be a thin wrapper around the Planning / Executing Engine built in Step 3.
 
