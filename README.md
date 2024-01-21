@@ -41,7 +41,7 @@ Much of the needed functionality to realize the vision for the Pythonic Assistan
 
 ### Goal Architecture
 
-![Image](goal_architecture.png)
+![Image](docs/static/goal_architecture.png)
 
 ### Completed
 
