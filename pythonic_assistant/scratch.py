@@ -1,3 +1,9 @@
+"""
+file: scratch.py
+Author: Julius Stener
+Description: This file is just for scratch work / to delete assistants.
+"""
+
 # imports
 from openai import OpenAI
 import json
