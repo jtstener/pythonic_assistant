@@ -20,9 +20,9 @@ JSON_TYPES = {
 }
 
 FC_EXAMPLES = [
-  'function_calling_examples/fc_example_1.json',
-  'function_calling_examples/fc_example_2.json',
-  'function_calling_examples/fc_example_3.json'
+  'pythonic_assistant/openai_wrappers/function_calling_examples/fc_example_1.json',
+  'pythonic_assistant/openai_wrappers/function_calling_examples/fc_example_2.json',
+  'pythonic_assistant/openai_wrappers/function_calling_examples/fc_example_3.json'
   ]
 
 class DocsParser():
