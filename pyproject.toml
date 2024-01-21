@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pythonic-assistant"
+version = "0.1.0"
+description = ""
+authors = ["jtstener <julius@stener.org>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.29.0"
+openai = "^1.6.1"
+python-dotenv = "^1.0.0"
+twilio = "^8.11.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
