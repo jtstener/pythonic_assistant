@@ -8,7 +8,8 @@ Reason:
 import streamlit as st
 import time
 import random
-from pythonic_assistant.pythonic_assistant import PythonicAssistant
+from langserve import RemoteRunnable
+from langchain_core.messages import HumanMessage, AIMessage
 
 st.title("Assistant")
 
@@ -19,15 +20,14 @@ if "assistant" not in st.session_state:
     description = "You are a general assistant. Use the functions provided to follow the directions of the user."
     instructions = "Please address the user as Jane Doe. The user has a premium account."
 
-    st.session_state.assistant = PythonicAssistant(
-        name = name,
-        description = description,
-        instructions = instructions
-    )
+    st.session_state.remote_runnable = RemoteRunnable("http://localhost:8000/")
 
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
+
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = []
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -39,17 +39,16 @@ if prompt := st.chat_input("How can I help you today?"):
     # Display user message in chat message container
     with st.chat_message("user"):
         st.markdown(prompt)
-    # Add user message to chat history
+
+    # Add user message to messages
     st.session_state.messages.append({"role": "user", "content": prompt})
 
-    assistant_response = st.session_state.assistant.execute(
-        [{'role':'user', 'content': prompt}], 
-        as_list=True
-        )
-    response = assistant_response[-1]['content']
+    ai_response = st.session_state.remote_runnable.invoke({"input": prompt, "chat_history": st.session_state.chat_history})
+
+    st.session_state.chat_history.extend([HumanMessage(content=prompt), AIMessage(content=ai_response['output'])])
 
     with st.chat_message("assistant"):
-        st.markdown(response)
+        st.markdown(ai_response['output'])
     
     # Add assistant response to chat history
-    st.session_state.messages.append({"role": "assistant", "content": response})
+    st.session_state.messages.append({"role": "assistant", "content": ai_response['output']})

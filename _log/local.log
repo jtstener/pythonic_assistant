@@ -4846,3 +4846,659 @@
 2024-01-21 17:18:17,047 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
 	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x1389fb550>>
 	- Status: completed
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,280 - pythonic_assistant.openai_wrappers.assistants_wrapper - INFO - Assistant Initialized: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:18,451 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Initialized Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,221 - pythonic_assistant.openai_wrappers.threads_wrapper - INFO - Added Message <msg_xhxHtdKd0vfMmxkBt8spfPBT> to Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,571 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Started Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Thread: thread_b2CdjqS6QX4anVQIIQdLBL0f                  
+	- Assistant: asst_ybEKKDq8tab62MQQOIUS2qcf
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:39,749 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,879 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:40,880 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,003 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:42,005 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,126 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:43,127 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,258 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:44,259 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,392 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:45,393 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,506 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:46,507 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,635 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:47,636 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,747 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:48,748 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,871 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:49,872 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,033 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:51,034 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,166 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:52,167 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,308 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:53,309 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,434 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:54,435 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,558 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:55,559 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,788 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:56,789 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,916 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:57,917 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,039 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:24:59,041 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: run_5otMuTGKy5emWA3SXfTFG21d
+	- Status: in_progress
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,149 - pythonic_assistant.openai_wrappers.runs_wrapper - INFO - Run <run_5otMuTGKy5emWA3SXfTFG21d> Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
+2024-01-21 17:25:00,150 - pythonic_assistant.pythonic_assistant - DEBUG - STATUS UPDATE
+	- Run: <bound method RunsWrapper.get_id of <pythonic_assistant.openai_wrappers.runs_wrapper.RunsWrapper object at 0x138dc2860>>
+	- Status: completed
