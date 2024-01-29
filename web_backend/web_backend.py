@@ -30,6 +30,9 @@ from langchain_openai import ChatOpenAI
 from langserve import add_routes
 from langserve.pydantic_v1 import BaseModel
 
+import os
+from supabase import create_client, Client
+
 MEMORY_KEY = "chat_history"
 
 
@@ -53,13 +56,39 @@ def word_length(word: str) -> int:
     """Returns a counter word"""
     return len(word)
 
+@tool
+def add_task(description: str) -> None:
+    """Adds a task to the task database"""
+    url: str = os.environ.get("SUPABASE_URL")
+    key: str = os.environ.get("SUPABASE_KEY")
+    supabase: Client = create_client(url, key)
+
+    payload = {
+        'description': description,
+        'user':'1661a426-345b-40ff-ac8e-e75542236ca6',
+        'status': 2
+        }
+
+    data, count = supabase.table('Tasks').insert(payload).execute()
+
+@tool
+def get_tasks() -> Any:
+    """Retrieve all the tasks in the task database as a list"""
+    url: str = os.environ.get("SUPABASE_URL")
+    key: str = os.environ.get("SUPABASE_KEY")
+    supabase: Client = create_client(url, key)
+
+    data, count = supabase.table('Tasks').select("*").execute()
+
+    return data
+
 
 # We need to set streaming=True on the LLM to support streaming individual tokens.
 # when using the stream_log endpoint.
 # .stream for agents streams action observation pairs not individual tokens.
 llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0, streaming=True)
 
-tools = [word_length]
+tools = [word_length, add_task, get_tasks]
 
 
 llm_with_tools = llm.bind(tools=[format_tool_to_openai_tool(tool) for tool in tools])

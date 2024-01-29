@@ -26,10 +26,16 @@ As a final setup step, start the poetry shell with the following command:
 poetry shell
 ```
 
-Now that you have setup the environment, simply type the following to run the pythonic assistant as configured in the `main.py` file.
+Now that you have setup the environment, open two terminal windows. In one, run the following to start pythonic assistant backend:
 
 ```
-python main.py
+poetry run python web_backend/web_backend.py
+```
+
+And in the other, run the following to start the frontend:
+
+```
+poetry run streamlit run web_frontend/interface.py
 ```
 
 ## Using the PythonicAssistant class
